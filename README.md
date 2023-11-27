@@ -21,3 +21,21 @@ Execute the Data_Analysis.py script to clean the extracted data.
 Open the T20_wc_2022_Data_Analysis.pbix file in Power BI to apply necessary transformations and measures.
 Results
 The final list of the best 11 players for the T20 World Cup 2022, based on the provided analysis, can be found in the T20_wc_2022_Data_Analysis.pbix file.
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/5b907356-6204-4693-a336-9400da9f44d2)
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/2e5d0c37-c4b9-4a47-8fb4-17f2f328d2be)
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/92733aca-8dd2-47e2-ac8c-8062c14f3958)
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/200421f4-7c37-48c1-9442-bad9ec473d2e)
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/18e70474-61a5-4c26-bbc3-89dd6e29e49a)
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/3e31fecd-ea0c-4b9a-bb85-8f303c44819a)
+
+![image](https://github.com/CoderNikhil-007/T20_WC_2022_Data_Analysis/assets/71206427/ee2e2b19-f895-4989-ba92-f81797e6cab5)
+
+
+
+
